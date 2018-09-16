@@ -42,6 +42,9 @@ Known for Generative Adversarial Networks, Lead Author of [Deep Learning Book](w
 ### Illya Sutskever
 Research Director of OpenAI, Formerly at Google Brain. [(personal)](http://www.cs.toronto.edu/~ilya/)
 
+### Jeremy Howard
+Co-founder of [fast.ai](http://www.fast.ai/), Australian data scientist and entrepreneur. [(fast.ai)](http://www.fast.ai/about/#jeremy), [(twitter)](https://twitter.com/jeremyphoward/)
+
 ### Jürgen Schmidhuber
 Scientific Director of [IDSIA](http://www.idsia.ch/), Professor at USI, advisor of Alex Graves. [(academic)](http://people.idsia.ch/~juergen/)
 
@@ -65,6 +68,9 @@ Professor at University of Oxford. [(personal)](http://www.cs.ubc.ca/~nando/), [
 
 ### Peter Norvig 
 Director of Research, Google. Co-author of the quintessential AI book - [Artificial Intelligence: A Modern approach](http://aima.cs.berkeley.edu/). [(personal)](http://www.norvig.com/)
+
+### Pieter Abbeel
+Professor at UC Berkeley and Co-Founder, President, and Chief Scientist [covariant.ai](http://covariant.ai/). [(berkeley)](https://people.eecs.berkeley.edu/~pabbeel/), [(twitter)](https://twitter.com/pabbeel/)
 
 ### Richard Sutton
 Considered father of modern Reinforcement Learning, Professor at University of Alberta. Author of [Reinforcement Learning book](http://incompleteideas.net/book/the-book-2nd.html). Advisor of David Silver. [(academic)](http://incompleteideas.net/).
